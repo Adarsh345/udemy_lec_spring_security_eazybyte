@@ -1,0 +1,10 @@
+server:
+  port: 8082
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: SPRING_SECURITY_SECTION_3
+
+  application:
+    name: SpringBootSection5CustomAuthencationProviderDemo

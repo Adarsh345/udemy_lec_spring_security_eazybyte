@@ -1,0 +1,11 @@
+server:
+  port: 8081
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: SPRING_SECURITY_SECTION_3
+                                           
+
+  application:
+    name: SPRING_SECURITY_SECTION_4_PASSWORD_ENCODER
